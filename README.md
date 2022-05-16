@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am **vpromise**.
+### Hi there 👋  I'm Vpromise
 
 #### Interests:
 
