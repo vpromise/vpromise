@@ -2,8 +2,8 @@
 
 #### Interests:
 
-- human pose estimation, gait analysis, computer vision, deep-learning ... 
-- basketball, sneakers, riding, android... 
+- human pose estimation, hand pose estimation, gait analysis, 
+- computer vision, deep-learning
 
 #### Education:
 
