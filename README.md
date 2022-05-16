@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Vpromise
+### Hi there 👋 I'm Vpromise
 
 #### Interests:
 
@@ -13,9 +13,8 @@
 
 #### Links:
 
-- [Blog](https://blog.vpromise.fun)
-- [Docs](https://docs.vpromise.fun)
-- Email: vpromiseverATgmail
+- [🧋Blog](https://blog.vpromise.fun)
+- [📎Docs](https://docs.vpromise.fun)
 
 <!--
 **vpromise/vpromise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
