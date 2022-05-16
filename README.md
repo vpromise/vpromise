@@ -1,14 +1,16 @@
 ### Hi there 👋
 
+I am **vpromise**.
+
 #### Interests:
 
 - human pose estimation, gait analysis, computer vision, deep-learning ... 
-- android, basketball, sneakers, riding ... 
+- basketball, sneakers, riding, android... 
 
 #### Education:
 
 - He is now studying for his PhD at University of Science and Technology of China (USTC).
-- He received his master's degree from the [Healthcare Intelligence Lab](http://faculty.uestc.edu.cn/HiLab/zh_CN/index.htm) (HiLab), University of Electronic Science and Technology of China (UESTC).
+- He received his master's degree from the Healthcare Intelligence Lab(HiLab), University of Electronic Science and Technology of China (UESTC).
 - He received his bachelor's degree from the University of Electronic Science and Technology of China (UESTC).
 
 #### Links:
