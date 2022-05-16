@@ -17,7 +17,7 @@ I am **vpromise**.
 
 - [Blog](https://blog.vpromise.fun)
 - [Docs](https://docs.vpromise.fun)
-- Email: vpromiseverATgmailDOTcom
+- Email: vpromiseverATgmail
 
 <!--
 **vpromise/vpromise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
