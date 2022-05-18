@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vpromise.visitor-badge)
 ### Hi there 👋 I'm Vpromise
 
 #### 	:sparkles: Interests:
@@ -15,6 +16,8 @@
 
 - [🧋Blog](https://blog.vpromise.fun)
 - [📎Docs](https://docs.vpromise.fun)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpromise)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **vpromise/vpromise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
