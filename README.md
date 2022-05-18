@@ -2,8 +2,8 @@
 
 #### 	:sparkles: Interests:
 
-- human pose estimation, hand pose estimation, gait analysis, 
-- computer vision, deep-learning
+- human pose estimation, hand pose estimation, gait analysis ...
+- computer vision, deep-learning ...
 
 #### :student: Education:
 
