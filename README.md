@@ -16,6 +16,7 @@
 
 - [🧋Blog](https://blog.vpromise.fun)
 - [📎Docs](https://docs.vpromise.fun)
+- [🌱Resume](https://vpromise.github.io)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpromise)](https://github.com/anuraghazra/github-readme-stats) -->
 
