@@ -1,10 +1,11 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vpromise.visitor-badge)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vpromise.visitor-badge) -->
 ### Hi there 👋 I'm Vpromise
 
 #### 	:sparkles: Interests:
 
-- human pose estimation, hand pose estimation, gait analysis ...
-- computer vision, deep-learning ...
+- human-centric multimodal learning (pose estimation, gait analysis/recognition)
+- vision-language models
+<!-- - computer vision, deep-learning ... -->
 
 #### :student: Education:
 
