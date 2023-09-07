@@ -3,7 +3,7 @@
 
 #### 	:sparkles: Interests:
 
-- human-centric multimodal learning (pose estimation, gait analysis/recognition)
+- human-centric multimodal learning (human/hand pose estimation, gait analysis/recognition ...)
 - vision-language models
 <!-- - computer vision, deep-learning ... -->
 
@@ -17,7 +17,7 @@
 
 - [🧋Blog](https://blog.vpromise.fun)
 - [📎Docs](https://docs.vpromise.fun)
-- [🌱Resume](https://vpromise.github.io)
+- [🌱Bio](https://vpromise.github.io)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpromise)](https://github.com/anuraghazra/github-readme-stats) -->
 
