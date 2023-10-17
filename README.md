@@ -1,5 +1,5 @@
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vpromise.visitor-badge) -->
-### Hi there 👋 I'm Vpromise
+### Hi there 👋 I'm Wei Xu
 
 #### 	:sparkles: Interests:
 
